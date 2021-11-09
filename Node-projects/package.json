@@ -1,0 +1,12 @@
+{
+  "name": "intro-to-node",
+  "version": "1.0.0",
+  "description": "this is intro module",
+  "main": "index.js",
+
+  "author": "Anjali Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "supervillains": "^3.0.0"
+  }
+}
